@@ -21,7 +21,8 @@ INSERT INTO racetype_groups (name) VALUES
 ('Straße'),
 ('MTB'),
 ('Bahn'),
-('Paracycling');
+('Paracycling'),
+('Querfeldein');
 
 CREATE TABLE racetypes (
   id serial primary key,
@@ -53,7 +54,8 @@ INSERT INTO racetypes (name, racetype_group_id) VALUES
 ('Einzelverfolgung', 3),
 ('Sprint', 3),
 ('Keirin', 3),
-('Zeitfahren', 3);
+('Zeitfahren', 3),
+('Querfeldein', 5);
 
 CREATE TABLE race_results (
   id SERIAL primary key,
