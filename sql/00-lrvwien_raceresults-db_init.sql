@@ -71,5 +71,5 @@ CREATE TABLE race_results (
   FOREIGN KEY ( rider_id, category_national, raceday_year ) REFERENCES aktive_lizenzen ( uci_id, category_national, valid_for_year )
 );
 
-COMMENT ON race_results.race_name IS 'Short title of the race. E.g. "LM-Wien Bahn Scratch WE"';
-COMMENT ON race_results.race_longname IS 'Descriptive long title of the race. E.g. "42. Grafenbacher Radsporttage"';
+COMMENT ON COLUMN race_results.race_name IS 'Short title of the race. E.g. "LM-Wien Bahn Scratch WE"';
+COMMENT ON COLUMN race_results.race_longname IS 'Descriptive long title of the race. E.g. "42. Grafenbacher Radsporttage"';
