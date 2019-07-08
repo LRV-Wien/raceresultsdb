@@ -112,5 +112,34 @@ COPY race_results (rider_id, pos, racetype_id, category_national, raceday_year, 
 10035064571	2	2	STRASSE MASTERS IV	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters IV	TdK Österreichische Meisterschaft Einzelzeitfahren
 10035066894	3	2	STRASSE MASTERS IV	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters IV	TdK Österreichische Meisterschaft Einzelzeitfahren
 10035069928	1	2	STRASSE MASTERS V	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters V	TdK Österreichische Meisterschaft Einzelzeitfahren
+10035019408	1	1	STRASSE MASTERS II	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10059087229 2	1	STRASSE MASTERS II	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10035019307	3	1	STRASSE MASTERS II	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10035028704 1	1	STRASSE MASTERS III	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10006645591 2	1	STRASSE MASTERS III	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10035028805 3	1	STRASSE MASTERS III	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10035022842	1	1	STRASSE MASTERS I	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10058693872 2	1	STRASSE MASTERS I	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10035039616	3	1	STRASSE MASTERS I	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10002772766	4	1	STRASSE MASTERS I	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10002772665	1	1	STRASSE AMATEURE	2019	https://rcgrafenbach.jimdo.com/20-grafenbacher-radsporttage/	Wiener Meisterschaft Straße	Masters II	20. Grafenbacher Radsporttage
+10035022741	1	1	STRASSE JUNIOREN	2019	http://www.radclub-inzing.at/?p=7214	ÖM Straße Junioren	Raika GP Inzing-Toblaten
+10007168886	1	5	STRASSE ELITE	2019	https://www.wsv-achenkirch.at/termine-und-rennen/termin?article_12465%5Bid%5D=802&article_id=12465	Wiener Meisterschaft Berg Elite	ÖM Berg Elite/U23
+10011151849	1	5	STRASSE U23	2019	https://www.wsv-achenkirch.at/termine-und-rennen/termin?article_12465%5Bid%5D=802&article_id=12465	Wiener Meisterschaft Berg U23	ÖM Berg Elite/U23
+10096055848 2	5	STRASSE ELITE	2019	https://www.wsv-achenkirch.at/termine-und-rennen/termin?article_12465%5Bid%5D=802&article_id=12465	Wiener Meisterschaft Berg Elite	ÖM Berg Elite/U23
+10035092560	1	1	STRASSE FRAUEN	2019		Wiener Meisterschaft Straße Frauen	ÖSTM Straße Frauen 
+10058693872	1	6	STRASSE MASTERS I	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters I	Kriterium Stattersdorf
+10035022842	2	6	STRASSE MASTERS I	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters I	Kriterium Stattersdorf
+10035062854	3	6	STRASSE MASTERS I	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters I	Kriterium Stattersdorf
+10035109940	4	6	STRASSE MASTERS I	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters I	Kriterium Stattersdorf
+10035030219	1	6	STRASSE MASTERS II	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters II	Kriterium Stattersdorf
+10092370858	2	6	STRASSE MASTERS II	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters II	Kriterium Stattersdorf
+10035028704	1	6	STRASSE MASTERS III	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters III	Kriterium Stattersdorf
+10006645591	2	6	STRASSE MASTERS III	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters III	Kriterium Stattersdorf
+10035070938	1	6	STRASSE MASTERS V	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Masters V	Kriterium Stattersdorf
+10035029613	1	6	STRASSE AMATEURE	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Amateure	Kriterium Stattersdorf
+10035042949	2	6	STRASSE AMATEURE	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Amateure	Kriterium Stattersdorf
+10035019913	3	6	STRASSE AMATEURE	2019	https://www.rc-stattersdorf.at/unsere-rennen/	Wiener Meisterschaft Kriterium	Amateure	Kriterium Stattersdorf
+
 \.
 
