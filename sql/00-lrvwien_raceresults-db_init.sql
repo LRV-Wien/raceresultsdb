@@ -56,6 +56,7 @@ INSERT INTO racetypes (name, racetype_group_id) VALUES
 ('Keirin', 3),
 ('Zeitfahren', 3),
 ('Querfeldein', 5);
+('Straße MH4', 4);
 
 CREATE TABLE race_results (
   id SERIAL primary key,
