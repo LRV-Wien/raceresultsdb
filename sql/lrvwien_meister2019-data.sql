@@ -78,10 +78,9 @@ COPY race_results (rider_id, position, racetype_id, category_national, raceday_y
 10035019307	6	22	STRASSE MASTERS II	2019	https://www.radsportverband.at/index.php/portale/bahn/allgemeines-bahn	LM Bahn 2019 Keirin MM	ÖSTM/ÖM Bahn 2019
 10035089833	7	22	STRASSE MASTERS III	2019	https://www.radsportverband.at/index.php/portale/bahn/allgemeines-bahn	LM Bahn 2019 Keirin MM	ÖSTM/ÖM Bahn 2019
 10088021521	1	5	STRASSE AMATEURE	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Amateure	7. Kindberger Bergrennen
-10094593976	2	5	STRASSE AMATEURE	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Amateure	7. Kindberger Bergrennen
-10093720067	3	5	STRASSE AMATEURE	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Amateure	7. Kindberger Bergrennen
-10083800910	4	5	STRASSE AMATEURE	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Amateure	7. Kindberger Bergrennen
-10091667105	5	5	STRASSE AMATEURE	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Amateure	7. Kindberger Bergrennen
+10093720067	2	5	STRASSE AMATEURE	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Amateure	7. Kindberger Bergrennen
+10083800910	3	5	STRASSE AMATEURE	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Amateure	7. Kindberger Bergrennen
+10091667105	4	5	STRASSE AMATEURE	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Amateure	7. Kindberger Bergrennen
 10035025569	1	5	STRASSE JUNIORINNEN	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Juniorinnen	7. Kindberger Bergrennen
 10035107112	1	5	STRASSE FRAUEN-MASTERS I	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Frauenters I	7. Kindberger Bergrennen
 10082220416	2	5	STRASSE FRAUEN-MASTERS I	2019	http://rc-arboe-kindberg.at/7-kindberger-bergrennen-11-05-2019-2/	Wiener Bergmeisterschaften 2019 Frauen Masters I	7. Kindberger Bergrennen
@@ -105,9 +104,8 @@ COPY race_results (rider_id, position, racetype_id, category_national, raceday_y
 10035022842	2	2	STRASSE MASTERS I	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters I	TdK Österreichische Meisterschaft Einzelzeitfahren
 10092370858	1	2	STRASSE MASTERS II	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters II	TdK Österreichische Meisterschaft Einzelzeitfahren
 10035032643	2	2	STRASSE MASTERS II	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters II	TdK Österreichische Meisterschaft Einzelzeitfahren
-10062724628	1	2	STRASSE MASTERS III	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters III	TdK Österreichische Meisterschaft Einzelzeitfahren
-10035028704	2	2	STRASSE MASTERS III	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters III	TdK Österreichische Meisterschaft Einzelzeitfahren
-10035028805	3	2	STRASSE MASTERS III	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters III	TdK Österreichische Meisterschaft Einzelzeitfahren
+10035028704	1	2	STRASSE MASTERS III	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters III	TdK Österreichische Meisterschaft Einzelzeitfahren
+10035028805	2	2	STRASSE MASTERS III	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters III	TdK Österreichische Meisterschaft Einzelzeitfahren
 10035028906	1	2	STRASSE MASTERS IV	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters IV	TdK Österreichische Meisterschaft Einzelzeitfahren
 10035064571	2	2	STRASSE MASTERS IV	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters IV	TdK Österreichische Meisterschaft Einzelzeitfahren
 10035066894	3	2	STRASSE MASTERS IV	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Masters IV	TdK Österreichische Meisterschaft Einzelzeitfahren
@@ -151,6 +149,7 @@ COPY race_results (rider_id, position, racetype_id, category_national, raceday_y
 10035025569	1	1	STRASSE JUNIORINNEN	2019	http://radsportwoche.hartberg.at/strassenrennen-kaindorf-donnerstag-15-august-2019_733.htm	Wiener Meisterschaft Straße Juniorinnen	Hartbergerland (Welt)Radsportwoche 2019 Straßenrennen Kaindorf
 10035026882	1	1	STRASSE U17	2019	http://radsportwoche.hartberg.at/strassenrennen-kaindorf-donnerstag-15-august-2019_733.htm	Wiener Meisterschaft Straße U17	Hartbergerland (Welt)Radsportwoche 2019 Straßenrennen Kaindorf
 10053587935	1	20	STRASSE AMATEURE	2019	https://lrv-wien.at/radbahn	Wiener Meisterschaft Einzelverfolgung Amateure	ÖSTM Bahn Ausdauer 2019
+10035019913	2	20	STRASSE AMATEURE	2019	https://lrv-wien.at/radbahn	Wiener Meisterschaft Einzelverfolgung Amateure	ÖSTM Bahn Ausdauer 2019
 10065666960	1	20	STRASSE MASTERS I	2019	https://lrv-wien.at/radbahn	Wiener Meisterschaft Einzelverfolgung Masters	ÖSTM Bahn Ausdauer 2019
 10035039616	2	20	STRASSE MASTERS I	2019	https://lrv-wien.at/radbahn	Wiener Meisterschaft Einzelverfolgung Masters	ÖSTM Bahn Ausdauer 2019
 10048896670	3	20	STRASSE MASTERS II	2019	https://lrv-wien.at/radbahn	Wiener Meisterschaft Einzelverfolgung Masters	ÖSTM Bahn Ausdauer 2019
@@ -203,5 +202,22 @@ COPY race_results (rider_id, position, racetype_id, category_national, raceday_y
 10008469801	1	7	para-cyclist	2019	https://www.radsportverband.at/images/Ergebnisse/2019/0623OeSTM-ParaGoessendorf.pdf	Wiener Meisterschaft Paracycling	Kraftwerks GP Gössendorf
 10012566635	1	25	para-cyclist	2019	https://www.radsportverband.at/images/Ergebnisse/2019/0623OeSTM-ParaGoessendorf.pdf	Wiener Meisterschaft Paracycling	Kraftwerks GP Gössendorf
 10035026882	1	5	STRASSE U17	2019	https://www.radsportverband.at/images/Ergebnisse/2019/0907Masenberg.pdf	Wiener Meisterschaft Berg U17	Masenbergrennen 2019
+10062362492	1	26	para-cyclist	2019		Wiener Meisterschaft ZF Paracycling	ÖSTM - Zeitfahren Paracycling in St. Georgen/Lav.
+10084647032	2	26	para-cyclist	2019		Wiener Meisterschaft ZF Paracycling	ÖSTM - Zeitfahren Paracycling in St. Georgen/Lav.
+10012265632	1	27	para-cyclist	2019		Wiener Meisterschaft ZF Paracycling	ÖSTM - Zeitfahren Paracycling in St. Georgen/Lav.
+10084653395	1	28	para-cyclist	2019		Wiener Meisterschaft ZF Paracycling	ÖSTM - Zeitfahren Paracycling in St. Georgen/Lav.
+10008469801	1	11	para-cyclist	2019		Wiener Meisterschaft ZF Paracycling	ÖSTM - Zeitfahren Paracycling in St. Georgen/Lav.
+10056549263	1	2	STRASSE FRAUEN-MASTERS III	2019	https://tourdekaernten.at/oestm-ezf/	Wiener Meisterschaft EZF 2019 Frauen Masters III	TdK Österreichische Meisterschaft Einzelzeitfahren
+10016042063	1	29	MTB WOMEN ELITE	2019	https://www.radsportverband.at/images/Ergebnisse/2019/0810mank.pdf	Wiener Meisterschaft MTB Marathon	ÖM MTB Marathon - 22.Mostviertler Mountainbike Rennen
+10016322555	1	29	MTB MEN ELITE	2019	https://www.radsportverband.at/images/Ergebnisse/2019/0810mank.pdf	Wiener Meisterschaft MTB Marathon	ÖM MTB Marathon - 22.Mostviertler Mountainbike Rennen
+10004464913	2	29	MTB MEN ELITE	2019	https://www.radsportverband.at/images/Ergebnisse/2019/0810mank.pdf	Wiener Meisterschaft MTB Marathon	ÖM MTB Marathon - 22.Mostviertler Mountainbike Rennen
+10003743170	1	29	MTB SK HERREN	2019	https://www.radsportverband.at/images/Ergebnisse/2019/0810mank.pdf	Wiener Meisterschaft MTB Marathon	ÖM MTB Marathon - 22.Mostviertler Mountainbike Rennen
+10002772766	1	30	MTB MASTERS 2	2019	https://www.radsportverband.at/images/Ergebnisse/2019/0501%C3%B6m-eliminator.pdf	Wiener Meisterschaft MTB XCE	Grazer Bike-Opening zugl. Österreichische Staats- und Meisterschaft Eliminator 
+10015728330	1	14	MTB MEN ELITE	2019	http://www.mtb-windhaag.com/fileadmin/ergebnisse/2019/20190615Windhaag_OEM_XCO_MTB.pdf	Wiener Meisterschaft MTB XCO	ÖSTM Windhaag
+10048381560	2	14	MTB MEN ELITE	2019	http://www.mtb-windhaag.com/fileadmin/ergebnisse/2019/20190615Windhaag_OEM_XCO_MTB.pdf	Wiener Meisterschaft MTB XCO	ÖSTM Windhaag
+10008623886	1	14	MTB WOMEN ELITE	2019	http://www.mtb-windhaag.com/fileadmin/ergebnisse/2019/20190615Windhaag_OEM_XCO_MTB.pdf	Wiener Meisterschaft MTB XCO	ÖSTM Windhaag
+10002772665	1	14	MTB MASTERS 2	2019	http://www.mtb-windhaag.com/fileadmin/ergebnisse/2019/20190615Windhaag_OEM_XCO_MTB.pdf	Wiener Meisterschaft MTB XCO	ÖSTM Windhaag
+10002772766	2	14	MTB MASTERS 2	2019	http://www.mtb-windhaag.com/fileadmin/ergebnisse/2019/20190615Windhaag_OEM_XCO_MTB.pdf	Wiener Meisterschaft MTB XCO	ÖSTM Windhaag
+10003743170	1	14	MTB SK HERREN	2019	http://www.mtb-windhaag.com/fileadmin/ergebnisse/2019/20190615Windhaag_OEM_XCO_MTB.pdf	Wiener Meisterschaft MTB XCO	ÖSTM Windhaag
 \.
 

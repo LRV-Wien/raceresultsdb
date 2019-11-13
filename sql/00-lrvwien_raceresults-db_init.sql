@@ -42,7 +42,7 @@ INSERT INTO racetypes (name, racetype_group_id) VALUES
 ('Straße MB Tandem', 4),
 ('Straße WB Tandem', 4),
 ('Zeitfahren C4', 4),
-('Zeitfahren H2', 4),
+('Zeitfahren MH2', 4),
 ('Zeitfahren Tandem Men', 4),
 ('Zeitfahren Tandem Mixed', 4),
 ('XCO', 2),
@@ -57,6 +57,12 @@ INSERT INTO racetypes (name, racetype_group_id) VALUES
 ('Zeitfahren', 3),
 ('Querfeldein', 5);
 ('Straße MH4', 4);
+('Zeitfahren MB', 4);
+('Zeitfahren WB', 4);
+('Zeitfahren MC5', 4);
+('MTB Marathon', 2);
+('XCE', 2);
+
 
 CREATE TABLE race_results (
   id SERIAL primary key,
