@@ -55,19 +55,19 @@ INSERT INTO racetypes (name, racetype_group_id) VALUES
 ('Sprint', 3),
 ('Keirin', 3),
 ('Zeitfahren', 3),
-('Querfeldein', 5);
-('Straße MH4', 4);
-('Zeitfahren MB', 4);
-('Zeitfahren WB', 4);
-('Zeitfahren MC5', 4);
-('MTB Marathon', 2);
+('Querfeldein', 5),
+('Straße MH4', 4),
+('Zeitfahren MB', 4),
+('Zeitfahren WB', 4),
+('Zeitfahren MC5', 4),
+('MTB Marathon', 2),
 ('XCE', 2);
 
 
 CREATE TABLE race_results (
   id SERIAL primary key,
   rider_id text not null,
-  pos integer not null,
+  position integer not null,
   racetype_id integer references racetypes(id),
   category_national text not null,
   raceday_date date,

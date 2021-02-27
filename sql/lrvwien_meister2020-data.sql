@@ -1,0 +1,53 @@
+COPY race_results (rider_id, position, racetype_id, category_national, raceday_year, race_url, race_name, race_longname) FROM stdin;
+10075353725	1	24	STRASSE U15	2020		LM Querfeldein 2020 MU15M	ÖM Querfeldein 2020
+10002772766	1	24	STRASSE MASTERS I	2020		LM Querfeldein 2020 MM1	ÖM Querfeldein 2020
+10035039616	1	24	STRASSE MASTERS II	2020		LM Querfeldein 2020 MM2	ÖM Querfeldein 2020
+10035023852	1	24	STRASSE MASTERS III	2020		LM Querfeldein 2020 MM3	ÖM Querfeldein 2020
+10087646857	2	24	MTB MASTERS 5	2020		LM Querfeldein 2020 MM3	ÖM Querfeldein 2020
+10002772665	1	24	STRASSE AMATEURE	2020		LM Querfeldein 2020 AM	ÖM Querfeldein 2020
+10035026882	1	24	STRASSE U17	2020		LM Querfeldein 2020 MU17	ÖM Querfeldein 2020
+10048381560	1	24	STRASSE ELITE	2020		LM Querfeldein 2020 ME	ÖSTM Querfeldein 2020
+10008623886	1	24	STRASSE FRAUEN	2020		LM Querfeldein 2020 WE	ÖSTM Querfeldein 2020
+10035107112	2	24	STRASSE FRAUEN-MASTERS	2020		LM Querfeldein 2020 WE	ÖSTM Querfeldein 2020
+10016042063	3	24	MTB WOMEN ELITE	2020		LM Querfeldein 2020 WE	ÖSTM Querfeldein 2020
+10035107112	1	24	STRASSE FRAUEN-MASTERS	2020		LM Querfeldein 2020 WM	ÖSTM Querfeldein 2020
+10035026882	1	20	STRASSE U17	2020	https://www.radsportverband.at/index.php/portale/bahn/allgemeines-bahn	LM Bahn 2020 Einzelverfolgung MJ	ÖSTM/ÖM Bahn 2020
+10006532629	1	20	STRASSE ELITE	2020	https://www.radsportverband.at/index.php/portale/bahn/allgemeines-bahn	LM Bahn 2020 Einzelverfolgung ME	ÖSTM/ÖM Bahn 2020
+10035026882	1	16	STRASSE U17	2020	https://www.radsportverband.at/index.php/portale/bahn/allgemeines-bahn	LM Bahn 2020 Punkterennen MJ	ÖSTM/ÖM Bahn 2020
+10006532629	1	17	STRASSE ELITE	2020	https://www.radsportverband.at/index.php/portale/bahn/allgemeines-bahn	LM Bahn 2020 Scratch ME	ÖSTM/ÖM Bahn 2020
+10094593976	1	5	STRASSE AMATEURE	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 AM	8. Kindberger Bergrennen
+10035019913	2	5	STRASSE AMATEURE	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 AM	8. Kindberger Bergrennen
+10035062854	1	5	STRASSE MASTERS I	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 MM1	8. Kindberger Bergrennen
+10035107415	2	5	STRASSE MASTERS I	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 MM1	8. Kindberger Bergrennen
+10035106506	1	5	STRASSE MASTERS II	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 MM2	8. Kindberger Bergrennen
+10035019307	2	5	STRASSE MASTERS II	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 MM2	8. Kindberger Bergrennen
+10035028704	1	5	STRASSE MASTERS III	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 MM3	8. Kindberger Bergrennen
+10035019206	1	5	STRASSE MASTERS IV	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 MM4	8. Kindberger Bergrennen
+10035064571	1	5	STRASSE MASTERS V	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 MM5	8. Kindberger Bergrennen
+10035026882	1	5	STRASSE U17	2020	http://rc-arboe-kindberg.at/	LM Berg 2020 MU17	8. Kindberger Bergrennen
+10083305200	1	5	STRASSE FRAUEN	2020		LM Berg 2020 WE	ÖM Berg Elite Hochkar
+10096055848	1	5	STRASSE ELITE	2020		LM Berg 2020 ME	ÖM Berg Elite Hochkar
+10009885694	2	5	STRASSE ELITE	2020		LM Berg 2020 ME	ÖM Berg Elite Hochkar
+10010196603	1	2	STRASSE ELITE	2020		LM EZF 2020 ME	ÖSTM EZF Lutzmannsburg
+10051117869	1	2	STRASSE AMATEURE	2020		LM EZF 2020 AM	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035070534	2	2	STRASSE AMATEURE	2020		LM EZF 2020 AM	ÖM EZF Alois Kainer Gedenkrennen 2020
+10002772665	3	2	STRASSE AMATEURE	2020		LM EZF 2020 AM	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035029613	4	2	STRASSE AMATEURE	2020		LM EZF 2020 AM	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035026882	1	2	STRASSE U17	2020		LM EZF 2020 MU17	ÖM EZF Alois Kainer Gedenkrennen 2020
+10087643322	1	2	STRASSE U13	2020		LM EZF 2020 MU13	ÖM EZF Alois Kainer Gedenkrennen 2020
+10064724141	1	2	STRASSE MÄDCHEN U17	2020		LM EZF 2020 WU17	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035062854	1	2	STRASSE MASTERS I	2020		LM EZF 2020 MM1	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035022842	2	2	STRASSE MASTERS I	2020		LM EZF 2020 MM1	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035106506	1	2	STRASSE MASTERS II	2020		LM EZF 2020 MM2	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035039616	2	2	STRASSE MASTERS II	2020		LM EZF 2020 MM2	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035027892	3	2	STRASSE MASTERS II	2020		LM EZF 2020 MM2	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035028704	1	2	STRASSE MASTERS III	2020		LM EZF 2020 MM3	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035028906	1	2	STRASSE MASTERS IV	2020		LM EZF 2020 MM4	ÖM EZF Alois Kainer Gedenkrennen 2020
+10100181176	2	2	STRASSE MASTERS IV	2020		LM EZF 2020 MM4	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035028805	1	2	STRASSE MASTERS V	2020		LM EZF 2020 MM5	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035070938	2	2	STRASSE MASTERS V	2020		LM EZF 2020 MM5	ÖM EZF Alois Kainer Gedenkrennen 2020
+10035042343	1	2	STRASSE MASTERS VI +	2020		LM EZF 2020 MM6	ÖM EZF Alois Kainer Gedenkrennen 2020
+10056549263	1	2	STRASSE FRAUEN-MASTERS	2020		LM EZF 2020 WM	ÖM EZF Alois Kainer Gedenkrennen 2020
+10016042063	1	29	MTB WOMEN ELITE	2020		LM MTB XCM 2020 WE	XCM-ÖM Bad Goisern 2020
+10016322555	1	29	MTB MEN ELITE	2020		LM MTB XCM 2020 ME	XCM-ÖM Bad Goisern 2020
+\.
